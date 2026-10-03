@@ -1,0 +1,5 @@
+commit 6f70c7f4eabf944f5171c9b97fbbdd88904d1604
+Author: AbdAlhadeAhmad <abdalhadeyy00@gmail.com>
+Date:   Sat Oct 3 15:04:18 2026 +0300
+
+    Initial commit: add hello.txt
