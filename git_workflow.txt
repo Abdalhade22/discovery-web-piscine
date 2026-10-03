@@ -1,0 +1,13 @@
+Git Workflow
+
+1. Edit
+I edited my project files and added the README file.
+
+2. Add
+I used git add to put the files in the staging area.
+
+3. Commit
+I used git commit to save my changes with a commit message.
+
+4. Push
+I used git push to upload my changes to GitHub.
